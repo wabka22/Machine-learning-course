@@ -1,0 +1,7 @@
+# Visual Studio папки
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.db
+*.opendb
