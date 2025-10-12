@@ -1,7 +1,14 @@
-# Visual Studio папки
+# Файлы и папки Visual Studio
 .vs/
 *.suo
 *.user
 *.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+*.sln.docstates
 *.db
 *.opendb
+
+# Файлы Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
